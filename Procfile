@@ -1,1 +1,0 @@
-web: java -jar build/libs/gohoubigazou-0.1.0.jar
