@@ -1,0 +1,5 @@
+build
+.idea
+.gradle
+src/main/resources/static/img/gohoubi.jpg
+src/main/resources/application.yml
